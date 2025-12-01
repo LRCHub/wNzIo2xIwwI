@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "SEVENTH MOON",
+  "base_artist": "Fire Bomber featuring BASARA NEKKI",
+  "createdAt": "2025-12-01T16:15:58.829470Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Before the Seventh Moon",
+      "artist": "Gehenna",
+      "has_synced": true,
+      "path": "select/01_Before_the_Seventh_Moon_Gehenna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SEVENTH MOON",
+      "artist": "Fire Bomber feat. BASARA NEKKI",
+      "has_synced": true,
+      "path": "select/02_SEVENTH_MOON_Fire_Bomber_feat._BASARA_NEKKI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SEVENTH MOON",
+      "artist": "Fire Bomber",
+      "has_synced": true,
+      "path": "select/03_SEVENTH_MOON_Fire_Bomber.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SEVENTH MOON(TV Version)",
+      "artist": "FIRE BOMBER",
+      "has_synced": false,
+      "path": "select/04_SEVENTH_MOON(TV_Version)_FIRE_BOMBER.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Seventh Moon (TV Version)",
+      "artist": "Fire Bomber",
+      "has_synced": false,
+      "path": "select/05_Seventh_Moon_(TV_Version)_Fire_Bomber.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "SEVENTH MOON (マクロス7) - LIVE",
+      "artist": "福山芳樹(Fire Bomber)",
+      "has_synced": false,
+      "path": "select/06_SEVENTH_MOON_(マクロス7)_-_LIVE_福山芳樹(Fire_Bomber).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "SEVENTH MOON",
+      "artist": "Fire Bomber featuring BASARA NEKKI",
+      "has_synced": true,
+      "path": "select/07_SEVENTH_MOON_Fire_Bomber_featuring_BASARA_NEKKI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "SEVENTH MOON",
+      "artist": "Fire Bomber featuring BASARA NEKKI, 河内淳貴, K.INOJO",
+      "has_synced": true,
+      "path": "select/08_SEVENTH_MOON_Fire_Bomber_featuring_BASARA_NEKKI,_河内淳貴,_K.INOJO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Your Seventh Moon",
+      "artist": "Renée Reed",
+      "has_synced": true,
+      "path": "select/09_Your_Seventh_Moon_Renée_Reed.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SEVENTH MOON (TV Size) [Bonus Track]",
+      "artist": "Fire Bomber",
+      "has_synced": false,
+      "path": "select/10_SEVENTH_MOON_(TV_Size)_[Bonus_Track]_Fire_Bomber.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "SEVENTH MOON",
+      "artist": "Fire Bomber American",
+      "has_synced": true,
+      "path": "select/11_SEVENTH_MOON_Fire_Bomber_American.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "SEVENTH MOON (TV Size)",
+      "artist": "Fire Bomber",
+      "has_synced": false,
+      "path": "select/12_SEVENTH_MOON_(TV_Size)_Fire_Bomber.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Brother Wolf (The Path of Seventh Moon)",
+      "artist": "Vampiria",
+      "has_synced": true,
+      "path": "select/13_Brother_Wolf_(The_Path_of_Seventh_Moon)_Vampiria.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "SEVENTH MOON (TV Version)",
+      "artist": "FIRE BOMBER",
+      "has_synced": false,
+      "path": "select/14_SEVENTH_MOON_(TV_Version)_FIRE_BOMBER.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Sixth and Seventh Moon",
+      "artist": "Juleah",
+      "has_synced": false,
+      "path": "select/15_The_Sixth_and_Seventh_Moon_Juleah.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "SEVENTH MOON",
+      "artist": "Fire Bomber featuring 熱気バサラ",
+      "has_synced": false,
+      "path": "select/16_SEVENTH_MOON_Fire_Bomber_featuring_熱気バサラ.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Seventh Moon",
+      "artist": "Fire Bomber",
+      "has_synced": true,
+      "path": "select/17_Seventh_Moon_Fire_Bomber.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SEVENTH MOON",
+      "artist": "FIRE BOMBER",
+      "has_synced": false,
+      "path": "select/pl_01_SEVENTH_MOON_FIRE_BOMBER.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "SEVENTH MOON",
+      "artist": "FIRE BOMBER",
+      "has_synced": false,
+      "path": "select/pl_02_SEVENTH_MOON_FIRE_BOMBER.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "SEVENTH MOON",
+      "artist": "FIRE BOMBER",
+      "has_synced": false,
+      "path": "select/pl_03_SEVENTH_MOON_FIRE_BOMBER.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Seventh Moon",
+      "artist": "FIRE BOMBER",
+      "has_synced": false,
+      "path": "select/pl_04_Seventh_Moon_FIRE_BOMBER.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "SEVENTH MOON",
+      "artist": "FIRE BOMBER",
+      "has_synced": false,
+      "path": "select/pl_05_SEVENTH_MOON_FIRE_BOMBER.txt"
+    }
+  ]
+}
